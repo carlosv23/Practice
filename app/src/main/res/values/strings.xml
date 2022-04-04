@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Internal Project</string>
+    <string name="biometric_title">Biometric login for my app</string>
+    <string name="biometric_subtitle">Log in using your biometric credential</string>
+    <string name="biometrics_negative_text">Use account password</string>
+</resources>
